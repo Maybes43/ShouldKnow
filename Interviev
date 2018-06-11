@@ -41,8 +41,17 @@ Tech interview speaking:
 17) Function Declaration / Function Expression
 18) Как переприсвоить метод родительского класса? (ES5 - ES6)
 19) Разница между сall, apply, bind
-20) 
+20) У вас есть массив с обьектами. Как найти и удалить определенное свойство обьекта. Пару методов.
+21) Для чего нужны spread операторы?
 
+
+Tech interview speaking(REACT AND REDUX):
+1) Что такое props? Своими словами.
+2) Что такое state? Своими словами.
+3) Разница между props и state?
+4) Что такое и зачем нужны reduce?
+5) Что такое actions? И зачем они?
+6) 
 
 
 
